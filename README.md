@@ -1,3 +1,3 @@
 # DLSchool-autoencoder
 
-Autoencoders in pytorch
+Simple autoencoders in pytorch
